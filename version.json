@@ -3,7 +3,8 @@
   "versionName": "1.1.3",
   "apkUrl": "https://github.com/marcofnalves/No-Mans-Land-App-Android/raw/main/NoMansLand-v1.1.3.apk",
   "releaseNotes": [
-    "Hotfix do Sistema de Atualização da App"
+    "Hotfix do Sistema de Atualização da App",
+    "Hotfix repositório do github"
   ],
   "minRequired": 1
 }
