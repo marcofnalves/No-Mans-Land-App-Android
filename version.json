@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.1.2",
-  "apkUrl": "https://github.com/marcofnalves/No-Mans-Land-App-Android/raw/main/app-debug.apk",
+  "apkUrl": "https://github.com/marcofnalves/No-Mans-Land-App-Android/raw/main/NoMansLand-v1.1.2.apk",
   "releaseNotes": [
     "Adicionado sistema de atualização automática",
     "Novos itens na base de dados",
